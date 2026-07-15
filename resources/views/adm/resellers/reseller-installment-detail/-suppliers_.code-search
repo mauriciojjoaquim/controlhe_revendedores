@@ -1,0 +1,475 @@
+# Query:  -suppliers'
+# Including:  
+# Excluding:  
+# ContextLines: 1
+
+117 results - 117 files
+
+resources\views\adm\admin\box\cors\add-cors.blade.php:
+  1: <x-layout-app page-title="New Cors" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100  p-4">
+
+resources\views\adm\admin\box\cors\confirm-delete-cors.blade.php:
+  1: <x-layout-app page-title="Delete cor" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100  p-4">
+
+resources\views\adm\admin\colaborators\all-colaborators\edit-all-colaborators.blade.php:
+  1: <x-layout-app page-title="Edit RH User" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\admin\colaborators\all-colaborators\table-all-colaborators.blade.php:
+  1: <x-layout-app page-title="Colaborators" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100 p-4">
+
+resources\views\adm\customers\customer-order-detail\confirm-delete-customers-order-details.blade.php:
+  1: <x-layout-app page-title="Delete colaborator" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\customers\customer-order-detail\edit-customers-order-details.blade.php:
+  1: <x-layout-app page-title="Edit Clients" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\customers\customer-order-detail\show-customers-order-details.blade.php:
+  1: <x-layout-app page-title="Client details" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\customers\customer-order-detail\table-customers-order-details.blade.php:
+  1: <x-layout-app page-title="Clients Order Details" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100 {{ $conf['bg_color_site'] }} p-4">
+
+resources\views\adm\customers\customer-stock-detail\edit-customer-stock-detail.blade.php:
+  1: <x-layout-app page-title="Edit Customer Stock Detail" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\resellers\reseller-home.blade.php:
+  1: <x-layout-app page-title="Home" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100 p-4">
+
+resources\views\adm\resellers\reseller-box\reseller-suppliers\table-reseller-suppliers.blade.php:
+  1: <x-layout-app page-title="Fornecedor" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\resellers\reseller-installment-detail\confirm-cart-payment-detail.blade.php:
+  1: <x-layout-app page-title="Edit Clients" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100 p-4">
+
+resources\views\adm\resellers\reseller-installment-detail\confirm-delete-reseller-installment-detail.blade.php:
+  1: <x-layout-app page-title="Excluir Cliente" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100 p-4">
+
+resources\views\adm\resellers\reseller-installment-detail\edit-reseller-installment-detail.blade.php:
+  1: <x-layout-app page-title="Edit Clients" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100 p-4">
+
+resources\views\adm\resellers\reseller-installment-detail\show-reseller-installment-detail.blade.php:
+  1: <x-layout-app page-title="Detalhe do Cliente" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100 p-4">
+
+resources\views\adm\resellers\reseller-installment-detail\table-reseller-installment-detail.blade.php:
+  1: <x-layout-app page-title="Todos Clientes" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100 p-4">
+
+resources\views\adm\resellers\reseller-order-detail\add-reseller-order-details.blade.php:
+  1: <x-layout-app page-title="New Client Order Detail" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\resellers\reseller-order-detail\confirm-delete-reseller-order-details.blade.php:
+  1: <x-layout-app page-title="Delete colaborator" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\resellers\reseller-order-detail\edit-reseller-order-details.blade.php:
+  1: <x-layout-app page-title="Edit Clients" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\resellers\reseller-order-detail\show-reseller-order-details.blade.php:
+  1: <x-layout-app page-title="Client details" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\resellers\reseller-order-detail\table-reseller-order-details.blade.php:
+  1: <x-layout-app page-title="Clients Order Details" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100 {{ $conf['bg_color_site'] }} p-4">
+
+resources\views\adm\resellers\reseller-products\reseller-my-product\add-reseller-my-products.blade.php:
+  1: <x-layout-app page-title="New Product" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\resellers\reseller-products\reseller-my-product\confirm-delete-reseller-my-products.blade.php:
+  1: <x-layout-app page-title="Delete Product" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\resellers\reseller-products\reseller-my-product\edit-reseller-my-products.blade.php:
+  1: <x-layout-app page-title="Edit Product" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\resellers\reseller-products\reseller-my-product\show-reseller-my-products.blade.php:
+  1: <x-layout-app page-title="Product details" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\resellers\reseller-products\reseller-my-product\table-reseller-my-products.blade.php:
+  1: <x-layout-app page-title="Products" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\resellers\reseller-products\reseller-products\add-reseller-products.blade.php:
+  1: <x-layout-app page-title="New Product" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\resellers\reseller-products\reseller-products\confirm-delete-reseller-products.blade.php:
+  1: <x-layout-app page-title="Delete Product" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\resellers\reseller-products\reseller-products\edit-reseller-products.blade.php:
+  1: <x-layout-app page-title="Edit Product" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\resellers\reseller-products\reseller-products\show-reseller-products.blade.php:
+  1: <x-layout-app page-title="Product details" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\resellers\reseller-products\reseller-products\table-reseller-products.blade.php:
+  1: <x-layout-app page-title="Products" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\resellers\reseller-products\reseller-stock-detail\add-reseller-stock-detail.blade.php:
+  1: <x-layout-app page-title="New Customer Stock Detail" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\resellers\reseller-products\reseller-stock-detail\confirm-delete-customer-stock-detail.blade.php:
+  1: <x-layout-app page-title="Delete Customer Stock Detail" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\resellers\reseller-products\reseller-stock-detail\edit-reseller-stock-detail.blade.php:
+  1: <x-layout-app page-title="Edit Customer Stock Detail" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\resellers\reseller-products\reseller-stock-detail\show-reseller-stock-detail.blade.php:
+  1: <x-layout-app page-title="Customer Stock Detail" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\resellers\reseller-products\reseller-stock-detail\table-reseller-stock-detail.blade.php:
+  1: <x-layout-app page-title="Customer Stock Details" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\resellers\reseller-search\info-reseller.blade.php:
+  1: <x-layout-app page-title="Adicionar a sua carteira de Cliente" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100 p-4">
+
+resources\views\adm\resellers\reseller-search\search-reseller.blade.php:
+  1: <x-layout-app page-title="Fazer Venda" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100 p-4">
+
+resources\views\adm\resellers\reseller-search\show-info-reseller.blade.php:
+  1: <x-layout-app page-title="Detalhe do Cliente" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\resellers\reseller-stock-detail\add-reseller-stock-detail.blade.php:
+  1: <x-layout-app page-title="New Customer Stock Detail" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\resellers\reseller-stock-detail\confirm-delete-reseller-stock-detail.blade.php:
+  1: <x-layout-app page-title="Delete Customer Stock Detail" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\resellers\reseller-stock-detail\edit-reseller-stock-detail.blade.php:
+  1: <x-layout-app page-title="Edit Customer Stock Detail" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\resellers\reseller-stock-detail\show-reseller-stock-detail.blade.php:
+  1: <x-layout-app page-title="Customer Stock Detail" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\adm\resellers\reseller-stock-detail\table-reseller-stock-detail.blade.php:
+  1: <x-layout-app page-title="Customer Stock Details" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\admin\products\add-products.blade.php:
+  1: <x-layout-app page-title="New Product" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\admin\products\confirm-delete-products.blade.php:
+  1: <x-layout-app page-title="Delete Product" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\admin\products\edit-products.blade.php:
+  1: <x-layout-app page-title="Edit Product" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\admin\products\show-products.blade.php:
+  1: <x-layout-app page-title="Product details" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\admin\products\table-products.blade.php:
+  1: <x-layout-app page-title="Products" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100 p-4">
+
+resources\views\admin\user-installment-details\add-user-installment-details.blade.php:
+  1: <x-layout-app page-title="New User Installment Details" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\admin\user-installment-details\confirm-delete-user-installment-details.blade.php:
+  1: <x-layout-app page-title="Delete userinstallmentdetail" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\admin\user-installment-details\edit-user-installment-details.blade.php:
+  1: <x-layout-app page-title="Edit userinstallmentdetail" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\admin\user-installment-details\show-user-installment-details.blade.php:
+  1: <x-layout-app page-title="userinstallmentdetail details" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\admin\user-installment-details\table-user-installment-details.blade.php:
+  1: <x-layout-app page-title="User Installment Details" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100 p-4">
+
+resources\views\client-derlers\home.blade.php:
+  1: <x-layout-app page-title="Vendas" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\client-derlers\installment-client-detail\add-installment-client-detail.blade.php:
+  1: <x-layout-app page-title="Vendas" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\client-derlers\installment-client-detail\cart-installment-client-detail.blade.php:
+  1: <x-layout-app page-title="Carinho de Compra" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100 p-4">
+
+resources\views\client-derlers\installment-client-detail\confirm-cart-payment-detail.blade.php:
+  1: <x-layout-app page-title="Enviar Comprovante" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\client-derlers\installment-client-detail\confirm-delete-installment-client-detail.blade.php:
+  1: <x-layout-app page-title="Excluir Cliente" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\client-derlers\installment-client-detail\edit-installment-client-detail.blade.php:
+  1: <x-layout-app page-title="Edit Clients" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\client-derlers\installment-client-detail\show-installment-client-detail.blade.php:
+  1: <x-layout-app page-title="Detalhe do Cliente" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\client-derlers\installment-client-detail\table-installment-client-detail.blade.php:
+  1: <x-layout-app page-title="Todos Clientes" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100 p-4">
+
+resources\views\clients\client\add-clients.blade.php:
+  1: <x-layout-app page-title="Novo Cliente" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\clients\client\confirm-delete-clients.blade.php:
+  1: <x-layout-app page-title="Delete colaborator" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\clients\client\edit-clients.blade.php:
+  1: <x-layout-app page-title="Edit Clients" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\clients\client\show-clients.blade.php:
+  1: <x-layout-app page-title="Detalhe do Cliente" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100 p-4">
+
+resources\views\clients\client\table-clients.blade.php:
+  1: <x-layout-app page-title="Todos Clientes" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100 p-4">
+
+resources\views\clients\client-detail\add-client-details.blade.php:
+  1: <x-layout-app page-title="New Detail" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100 p-4">
+
+resources\views\clients\client-detail\confirm-delete-client-details.blade.php:
+  1: <x-layout-app page-title="Delete colaborator" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100 p-4">
+
+resources\views\clients\client-detail\edit-client-details.blade.php:
+  1: <x-layout-app page-title="Edit Clients" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100 p-4">
+
+resources\views\clients\client-detail\show-client-details.blade.php:
+  1: <x-layout-app page-title="Client details" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100 p-4">
+
+resources\views\clients\client-detail\table-client-details.blade.php:
+  1: <x-layout-app page-title="Details" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100 p-4">
+
+resources\views\clients\client-order-detail\add-client-order-details.blade.php:
+  1: <x-layout-app page-title="New Client Order Detail" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\clients\client-order-detail\confirm-delete-client-order-details.blade.php:
+  1: <x-layout-app page-title="Delete colaborator" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\clients\client-order-detail\edit-client-order-details.blade.php:
+  1: <x-layout-app page-title="Edit Clients" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\clients\client-order-detail\show-client-order-details.blade.php:
+  1: <x-layout-app page-title="Client details" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\clients\client-order-detail\table-client-order-details.blade.php:
+  1: <x-layout-app page-title="Clients Order Details" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100 {{ $conf['bg_color_site'] }} p-4">
+
+resources\views\clients\customer-stock-detail\add-customer-stock-detail.blade.php:
+  1: <x-layout-app page-title="New Customer Stock Detail" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\clients\customer-stock-detail\confirm-delete-customer-stock-detail.blade.php:
+  1: <x-layout-app page-title="Delete Customer Stock Detail" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\clients\customer-stock-detail\edit-customer-stock-detail.blade.php:
+  1: <x-layout-app page-title="Edit Customer Stock Detail" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\clients\customer-stock-detail\show-customer-stock-detail.blade.php:
+  1: <x-layout-app page-title="Customer Stock Detail" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\clients\customer-stock-detail\table-customer-stock-detail.blade.php:
+  1: <x-layout-app page-title="Customer Stock Details" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\colaborators\colaborator\add-colaborators-manager.blade.php:
+  1: <x-layout-app page-title="Novo Colaborador" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\colaborators\colaborator\colaborator.blade.php:
+  1: <x-layout-app page-title="Colaborators" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100 p-4">
+
+resources\views\colaborators\colaborator\confirm-delete-colaborator.blade.php:
+  1: <x-layout-app page-title="Delete colaborator" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\colaborators\colaborator\show-detail.blade.php:
+  1: <x-layout-app page-title="Colaborator details" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\colaborators\colaborator\manager\add-colaborators.blade.php:
+  1: <x-layout-app page-title="Novo Colaborador" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\colaborators\colaborator\manager\colaborators.blade.php:
+  1: <x-layout-app page-title="Colaborators" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100 p-4">
+
+resources\views\colaborators\colaborator\manager\delete-colaborators.blade.php:
+  1: <x-layout-app page-title="Delete colaborator" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\colaborators\colaborator\manager\detail-colaborators.blade.php:
+  1: <x-layout-app page-title="Colaborator details" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\colaborators\colaborator\manager\edit-colaborators.blade.php:
+  1: <x-layout-app page-title="Edit color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\colaborators\rh\add-rh-user-new.blade.php:
+  1: <x-layout-app page-title="Novo Colaborador" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\colaborators\rh\add-rh-user.blade.php:
+  1: <x-layout-app page-title="Novo Colaborador" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\colaborators\rh\delete-rh-user.blade.php:
+  1: <x-layout-app page-title="Delete colaborator" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\colaborators\rh\edit-rh-user.blade.php:
+  1: <x-layout-app page-title="Edit RH User" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\colaborators\rh\rh-user.blade.php:
+  1: <x-layout-app page-title="Colaboradores" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100 p-4">
+
+resources\views\lists\list-delete.blade.php:
+  1: <x-layout-app page-title="Delete List" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\lists\list-edit.blade.php:
+  1: <x-layout-app page-title="Edit Stock" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\lists\list-new.blade.php:
+  1: <x-layout-app page-title="New List" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\lists\list-table.blade.php:
+  1: <x-layout-app page-title="Stocks" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100 p-4">
+
+resources\views\lists\list-vis-total.blade.php:
+  1: <x-layout-app page-title="List Total" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\lists\list-vis.blade.php:
+  1: <x-layout-app page-title="List detail" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\settings\access\add-access.blade.php:
+  1: <x-layout-app page-title="New Access"  color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\settings\access\edit-access.blade.php:
+  1: <x-layout-app page-title="Edit Access" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\settings\access\show-access.blade.php:
+  1: <x-layout-app page-title="Colaborator details" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\settings\access\table-access.blade.php:
+  1  <x-layout-app page-title="Accesses" 
+  2: bg-color-table="{{ $conf['bg_color_table'] }}" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  3      <div class="w-100 p-4">
+
+resources\views\settings\categories\add-categories.blade.php:
+  1: <x-layout-app page-title="New Category"  color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\settings\categories\confirm-delete-categories.blade.php:
+  1: <x-layout-app page-title=" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\settings\categories\edit-categories.blade.php:
+  1: <x-layout-app page-title="Edit category" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\settings\categories\show-categories.blade.php:
+  1: <x-layout-app page-title="Category details" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\settings\categories\table-categories.blade.php:
+  1: <x-layout-app page-title="categories" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\settings\cors\add-cors.blade.php:
+  1: <x-layout-app page-title="New Cors" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100  p-4">
+
+resources\views\settings\cors\edit-cors.blade.php:
+  1: <x-layout-app page-title="Edit Cors" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100  p-4">
+
+resources\views\settings\cors\show-cors.blade.php:
+  1: <x-layout-app page-title="Cor details" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100  p-4">
+
+resources\views\settings\cors\table-cors.blade.php:
+  1: <x-layout-app page-title="Cors" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2      <div class="w-100  p-4">
+
+resources\views\settings\suppliers\add-suppliers.blade.php:
+  1: <x-layout-app page-title="New Supplier" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
+
+resources\views\settings\suppliers\confirm-delete-suppliers.blade.php:
+  1: <x-layout-app page-title="Delete supplier" color-site-bg="{{ $conf['color_site_bg'] }}" bg-color-table="{{ $conf['bg_color_table'] }}" color-table-text="{{ $conf['color_table_text'] }}" color-card-bg="{{ $conf['color_card_bg'] }}" color-card-text="{{ $conf['color_card_text'] }}" bg-color-menu="{{ $conf['bg_color_menu'] }}" color-menu-text="{{ $conf['color_menu_text'] }}" text-color-site="{{ $conf['text_color_site'] }}">
+  2  
